@@ -1,7 +1,7 @@
 # Imageprocessing-MediaPipe-react-js-contact-lens-virtual-try-on-system
 Link: https://www.youtube.com/watch?v=1UfYd152Sy8&t=51s
 
-[![Video](https://img.youtube.com/vi/jXnoFqcAkQA/maxresdefault.jpg)](https://www.youtube.com/watch?v=jXnoFqcAkQA)
+[![Video](https://i.ytimg.com/vi/1UfYd152Sy8/hqdefault.jpg)](https://www.youtube.com/watch?v=1UfYd152Sy8)
 
 👁️💻 Excited to share a demo of my latest project - a Contact Lens Virtual Try-On system built using MediaPipe and React JS!
 
